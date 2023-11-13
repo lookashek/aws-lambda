@@ -1,4 +1,4 @@
-package dev.danvega.scf17;
+package dev.lambda;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
